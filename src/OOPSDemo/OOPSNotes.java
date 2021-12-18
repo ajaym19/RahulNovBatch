@@ -14,6 +14,7 @@ public class OOPSNotes {
 	 * use the keyword extends
 	 * child class object can access parent class methods
 	 * but parent class object cannot access child class methods
+	 * 
 	 * 2. Polymorphism
 	 * 3. Abstraction
 	 * 4. Encapsulation
